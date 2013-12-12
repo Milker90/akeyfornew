@@ -1,6 +1,8 @@
 #!/use/bin/python
 
 import os
+import string
+
 
 #install brew
 os.system('ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go/install)"')
